@@ -1,2 +1,2 @@
-# kali
-fast repo resources for kali
+# irhackofficial
+fast repo resources for Kali
